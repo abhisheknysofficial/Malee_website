@@ -33,7 +33,7 @@ const icons = {
 export default function LegacyStats() {
   return (
     <main className="main-wrapper">
-      <section id="legacy-adventure-section" className="mh-main-section scroll-reveal">
+      <section id="legacy-adventure-section" className="mh-main-section scroll-reveal mh-reveal-active is-loaded">
         <div className="mh-legacy-header">
           <h2>Our Legacy of Unforgettable Journeys</h2>
           <p className="mh-subtitle">Trusted by thousands, crafting memories for a lifetime.</p>
